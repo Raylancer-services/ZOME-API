@@ -1,6 +1,6 @@
 # ZOME Airdrop
 
-## ZOME TOken
+## ZOME Token
 
 0x531461abcd176d9295f5651b879ee546dfa120d6
 https://sepolia.etherscan.io/token/0x531461abcd176d9295f5651b879ee546dfa120d6
